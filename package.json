@@ -5,5 +5,10 @@
   "main": "index.js",
   "keywords": ["javascript", "array", "iterator", "traversing", "directions", "both", "list", "listiterator"],
   "author": "solt",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/git-solt/arraytraverser/wiki",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/git-solt/arraytraverser"
+  }
 }
