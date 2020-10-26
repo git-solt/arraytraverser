@@ -1,9 +1,18 @@
 {
   "name": "arraytraverser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
-  "keywords": ["javascript", "array", "iterator", "traversing", "directions", "both", "list", "listiterator"],
+  "keywords": [
+    "javascript",
+    "array",
+    "iterator",
+    "traversing",
+    "directions",
+    "both",
+    "list",
+    "listiterator"
+  ],
   "author": "solt",
   "license": "ISC",
   "homepage": "https://github.com/git-solt/arraytraverser/wiki",
