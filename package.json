@@ -1,9 +1,9 @@
 {
-  "name": "listiterator",
+  "name": "arraytraverser",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript", "array", "iterator", "traversing", "directions", "both", "list", "listiterator"],
+  "author": "solt",
   "license": "ISC"
 }
