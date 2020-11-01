@@ -19,7 +19,7 @@
 
 Go to [wikipage](https://github.com/git-solt/arraytraverser/wiki) for full example on how to improve the functionality when traversing.
 
-## Versin 1.1.0
+## Version 1.1.0
 
 Features a new Iterator that does those extra steppes for you when changing direction
 
